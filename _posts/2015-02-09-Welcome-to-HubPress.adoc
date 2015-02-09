@@ -1,3 +1,5 @@
 = Welcome to HubPress
 
 Welcome
+
+:hp-tags: test, welcome
