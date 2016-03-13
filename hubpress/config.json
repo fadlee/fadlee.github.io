@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fadlee",
-    "repositoryName": "fadlee.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fadlee","repositoryName":"fadlee.github.io","branch":"master"},"site":{"url":"https://fadlee.github.io"},"socialnetwork":{},"theme":{"name":"ghostium","url":"//fadlee.github.io/themes/ghostium"}}
