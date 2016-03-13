@@ -1,5 +1,7 @@
 = Welcome to HubPress
 
-Welcome
+Welcome to my blog.
+
+Ok
 
 :hp-tags: test, welcome
